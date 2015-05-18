@@ -121,8 +121,8 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: shuvigoss's blog
-description: no description...
-theme: hack
+description: 最近潜心修炼IOS...
+theme: leap-day
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
