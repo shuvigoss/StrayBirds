@@ -120,8 +120,8 @@ baseurl: /blogs
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: shuvigoss's blog
+description: no description...
 theme: kunka
 disqusname: minixalpha
 
