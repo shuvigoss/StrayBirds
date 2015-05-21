@@ -48,6 +48,7 @@ comments: false
 
 ```
 
+```
 @implementation MessageScan
 
 //单例，保证唯一
