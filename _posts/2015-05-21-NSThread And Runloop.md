@@ -126,6 +126,7 @@ comments: false
 ```
 
 不过我建议将启动以及停止放在MessageScan中，通过NotificationCenter来控制，这样控制权在MessageScan内，修改代码时清楚明了。
+
 ```
 UIKIT_EXTERN NSString *const UIApplicationDidEnterBackgroundNotification       NS_AVAILABLE_IOS(4_0);
 UIKIT_EXTERN NSString *const UIApplicationWillEnterForegroundNotification      NS_AVAILABLE_IOS(4_0);
