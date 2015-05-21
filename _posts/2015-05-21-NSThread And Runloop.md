@@ -35,7 +35,6 @@ comments: false
 
 ```
 //定义一个MessageScan类，提供start stop用于启动和停止扫描。
-#import <Foundation/Foundation.h>
 
 @interface MessageScan : NSObject
 
@@ -48,7 +47,6 @@ comments: false
 @end
 
 ```
-#import "MessageScan.h"
 
 @implementation MessageScan
 

@@ -76,4 +76,6 @@ comments: false
 
 将scheduledTimerWithTimeInterval改为timerWithTimeInterval 并且把timer加入 currentRunLoop中，perfect！
 
+forMode:NSRunLoopCommonModes一定要注意，这才是核心。
+
 好了，我们通过一个demo以及推荐的3篇文章知道了Run Loop是什么了，接下来继续往下看。
